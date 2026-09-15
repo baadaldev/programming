@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 int main (){
-int a=2;
+int rakib=2;
 int b=3;
-cout<<"The value of a is "<<a<<endl;
-cout<<"The value of b is "<<b<<endl;
+cout<<"size of rakib is "<<sizeof(rakib)<<endl;
+cout<<"size of b is "<<sizeof(b)<<endl;
     return 0;
 }
